@@ -10,8 +10,8 @@ Meeting notes and code examples
   git clone git@github.com:malmorb/meetings.wiki.git
 ```
 
-2. Check code examples from the meeting can be found under /YYYYMMDD (same
-   name as the wiki page for the meetup.
+2. Code examples from the meeting, can be found under /YYYYMMDD (same
+   name as the wiki page for the meetup)
 
 ```
   git clone git@github.com:malmorb/meetings.git
